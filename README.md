@@ -1,4 +1,4 @@
 ![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
 
 # CMS - The Fun of Copy Left
-Lots of copy things
+A mod that has copied a lot of things.
