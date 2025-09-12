@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Mouse (smiling wider) idle",
+	"image": "mouse",
+	"position": [230, 160],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.95,
+	"confirm_anim": "Mouse (smiling wider) idle"
+}

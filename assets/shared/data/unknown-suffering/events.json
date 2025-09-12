@@ -1,0 +1,319 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Cinematics", "1", ""],
+				["Black flash", "1", ""],
+				["Add Camera Zoom", "1", ""],
+				["Cinematics", "1", ""],
+				["Cinematics", "1", ""],
+				["badapplelol", "a", ""]
+			]
+		],
+		[
+			9000,
+			[
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			19200,
+			[
+				["Cinematics", "", "2"],
+				["Change Scroll Speed", "1.1", "1"],
+				["badapplelol", "b", ""],
+				["Black flash", "5", ""]
+			]
+		],
+		[
+			19800,
+			[
+				["Play Animation", "laugh", "dad"],
+				["Change Character", "dad", "Mouseman2"]
+			]
+		],
+		[
+			19950,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			20100,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			20400,
+			[
+				["Cam Boom Speed", "3", "2"],
+				["Set Cam Zoom", "0.7", ""],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			29475,
+			[
+				["Change Character", "dad", "nedle"]
+			]
+		],
+		[
+			30000,
+			[
+				["Cam Boom Speed", "0", "1"],
+				["Change Character", "dad", "Mouseman3 (extra)"]
+			]
+		],
+		[
+			31200,
+			[
+				["Cam Boom Speed", "3", "2"],
+				["Change Character", "dad", "Mouseman3"],
+				["Watchout que", "1", ""]
+			]
+		],
+		[
+			40800,
+			[
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			48000,
+			[
+				["Change Scroll Speed", "1.2", "1"]
+			]
+		],
+		[
+			50400,
+			[
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Change Scroll Speed", "1.2", "1"],
+				["Change Character", "dad", "Mouseman3 (extra)"]
+			]
+		],
+		[
+			60600,
+			[
+				["Change Character", "dad", "Mouseman3"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			80775,
+			[
+				["Black flash", "5", ""]
+			]
+		],
+		[
+			80925,
+			[
+				["HideUI", "0   ", ""]
+			]
+		],
+		[
+			82125,
+			[
+				["HideUI", "1", ""]
+			]
+		],
+		[
+			82800,
+			[
+				["badapplelol", "a", ""],
+				["Add Camera Zoom", "5", "5"],
+				["badapplelol", "a", ""]
+			]
+		],
+		[
+			100800,
+			[
+				["Change Character", "dad", "Mouseman3 (extra)"]
+			]
+		],
+		[
+			102000,
+			[
+				["Change Character", "dad", "Mouseman3"],
+				["blackoutINSTANT", "a", ""],
+				["Cinematics", "", "2"]
+			]
+		],
+		[
+			103200,
+			[
+				["HideUI", "0", ""]
+			]
+		],
+		[
+			109200,
+			[
+				["HideUI", "1", ""]
+			]
+		],
+		[
+			109275,
+			[
+				["Watchout que", "", ""]
+			]
+		],
+		[
+			110400,
+			[
+				["blackoutINSTANT", "b", ""],
+				["badapplelol", "b", ""],
+				["Play Animation", "laugh", "dad"],
+				["blackoutINSTANT", "b", ""]
+			]
+		],
+		[
+			110550,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			111600,
+			[
+				["Change Character", "dad", "Mouseman3"],
+				["Set Cam Zoom", "1", ""]
+			]
+		],
+		[
+			152400,
+			[
+				["Watchout que", "1", ""],
+				["Change Scroll Speed", "1.4", "1"]
+			]
+		],
+		[
+			153600,
+			[
+				["Set Cam Zoom", "0.7", ""],
+				["Cam Boom Speed", "4", "3"],
+				["Cinematics", "1", ""]
+			]
+		],
+		[
+			162675,
+			[
+				["Change Character", "dad", "Mouseman3 (extra)"],
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			163200,
+			[
+				["Change Character", "dad", "Mouseman3"]
+			]
+		],
+		[
+			172800,
+			[
+				["Cinematics", "", "2"]
+			]
+		],
+		[
+			175200,
+			[
+				["Set Cam Zoom", "0.8", ""]
+			]
+		],
+		[
+			180000,
+			[
+				["Watchout que", "", ""],
+				["Set Cam Zoom", "0.9", ""]
+			]
+		],
+		[
+			181200,
+			[
+				["Change Character", "dad", "Mouseman3 (extra)"],
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			181350,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			181500,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			181650,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			181800,
+			[
+				["Play Animation", "laugh", "dad"]
+			]
+		],
+		[
+			182400,
+			[
+				["Change Character", "dad", "Mouseman3"]
+			]
+		],
+		[
+			189600,
+			[
+				["Set Cam Zoom", "1", ""]
+			]
+		],
+		[
+			190800,
+			[
+				["Set Cam Zoom", "1.1", ""]
+			]
+		],
+		[
+			191400,
+			[
+				["Set Cam Zoom", "1.2", ""]
+			]
+		],
+		[
+			192000,
+			[
+				["blackoutINSTANT", "a", ""],
+				["Change Character", "dad", "Mouseman4"]
+			]
+		],
+		[
+			192225,
+			[
+				["Add Camera Zoom", "2", "5"]
+			]
+		],
+		[
+			192600,
+			[
+				["Flash Camera", "1", ""],
+				["Screen Shake", "1, 0.05", "1, 0.05"]
+			]
+		],
+		[
+			193800,
+			[
+				["Hud Fade", "1", "1"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

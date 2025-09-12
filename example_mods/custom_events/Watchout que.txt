@@ -1,0 +1,5 @@
+Plays the Watch out Sprite animation
+
+Value 1: speed
+
+Value 2: just leave it blank

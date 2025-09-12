@@ -1,0 +1,8 @@
+{
+	"confirm_anim": "BF HEY!!",
+	"idle_anim": "BF idle dance",
+	"position": [-10, -25],
+	"scale": 0.95,
+	"image": "bf-retro",
+	"flipX": false
+}

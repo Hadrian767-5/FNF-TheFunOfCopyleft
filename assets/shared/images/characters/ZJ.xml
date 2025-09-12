@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZJ.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="894" height="1061" pivotX="7.05" pivotY="3.5"/>
+	<SubTexture name="idle0001" x="894" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0002" x="1788" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0003" x="2682" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0004" x="3576" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0005" x="4470" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0006" x="5364" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0007" x="6258" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0008" x="7152" y="0" width="894" height="1061"/>
+	<SubTexture name="idle0009" x="0" y="1061" width="894" height="1061"/>
+	<SubTexture name="idle0010" x="0" y="1061" width="894" height="1061"/>
+	<SubTexture name="idle0011" x="0" y="1061" width="894" height="1061"/>
+	<SubTexture name="shoot0000" x="894" y="1061" width="3333" height="923" pivotX="7.05" pivotY="3.5"/>
+	<SubTexture name="shoot0001" x="4227" y="1061" width="3333" height="923"/>
+	<SubTexture name="shoot0002" x="0" y="2122" width="3333" height="923"/>
+	<SubTexture name="shoot0003" x="3333" y="2122" width="3333" height="923"/>
+	<SubTexture name="singDOWN0000" x="6666" y="2122" width="892" height="1072" pivotX="7.05" pivotY="0.8"/>
+	<SubTexture name="singDOWN0001" x="0" y="3194" width="892" height="1072"/>
+	<SubTexture name="singDOWN0002" x="892" y="3194" width="892" height="1072"/>
+	<SubTexture name="singDOWN0003" x="1784" y="3194" width="892" height="1072"/>
+	<SubTexture name="singLEFT0000" x="2676" y="3194" width="1061" height="1073" pivotX="176.1" pivotY="16.95"/>
+	<SubTexture name="singLEFT0001" x="3737" y="3194" width="1061" height="1073"/>
+	<SubTexture name="singLEFT0002" x="4798" y="3194" width="1061" height="1073"/>
+	<SubTexture name="singLEFT0003" x="5859" y="3194" width="1061" height="1073"/>
+	<SubTexture name="singLEFT0004" x="5859" y="3194" width="1061" height="1073"/>
+	<SubTexture name="singRIGHT0000" x="6920" y="3194" width="883" height="1057" pivotX="24.25" pivotY="-14.35"/>
+	<SubTexture name="singRIGHT0001" x="0" y="4267" width="883" height="1057"/>
+	<SubTexture name="singRIGHT0002" x="883" y="4267" width="883" height="1057"/>
+	<SubTexture name="singRIGHT0003" x="1766" y="4267" width="883" height="1057"/>
+	<SubTexture name="singRIGHT0004" x="2649" y="4267" width="883" height="1057"/>
+	<SubTexture name="singUP0000" x="3532" y="4267" width="894" height="1063" pivotX="26.15" pivotY="-17.55"/>
+	<SubTexture name="singUP0001" x="4426" y="4267" width="894" height="1063"/>
+	<SubTexture name="singUP0002" x="5320" y="4267" width="894" height="1063"/>
+	<SubTexture name="singUP0003" x="6214" y="4267" width="894" height="1063"/>
+</TextureAtlas>

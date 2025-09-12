@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Watchout.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Advertencia0000" x="0" y="0" width="1093" height="189" frameX="-81" frameY="-24" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0001" x="0" y="0" width="1093" height="189" frameX="-81" frameY="-24" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0002" x="1136" y="0" width="1171" height="234" frameX="-191" frameY="0" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0003" x="2350" y="0" width="1242" height="174" frameX="-155" frameY="-31" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0004" x="0" y="277" width="1254" height="172" frameX="-149" frameY="-32" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0005" x="1297" y="277" width="1266" height="170" frameX="-143" frameY="-33" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0006" x="2606" y="277" width="1278" height="168" frameX="-137" frameY="-34" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0007" x="0" y="492" width="1291" height="166" frameX="-131" frameY="-35" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0008" x="1334" y="492" width="1304" height="163" frameX="-124" frameY="-36" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0009" x="2681" y="492" width="1316" height="161" frameX="-118" frameY="-37" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0010" x="0" y="701" width="1328" height="159" frameX="-112" frameY="-38" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0011" x="1371" y="701" width="1340" height="157" frameX="-106" frameY="-39" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0012" x="0" y="903" width="1353" height="155" frameX="-100" frameY="-40" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0013" x="1396" y="903" width="1366" height="153" frameX="-93" frameY="-41" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0014" x="0" y="1101" width="1378" height="150" frameX="-87" frameY="-42" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0015" x="1421" y="1101" width="1390" height="148" frameX="-81" frameY="-44" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0016" x="0" y="1294" width="1403" height="146" frameX="-75" frameY="-45" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0017" x="1446" y="1294" width="1415" height="144" frameX="-69" frameY="-46" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0018" x="0" y="1483" width="1428" height="142" frameX="-62" frameY="-47" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0019" x="1471" y="1483" width="1440" height="140" frameX="-56" frameY="-48" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0020" x="0" y="1668" width="1452" height="138" frameX="-50" frameY="-49" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0021" x="1495" y="1668" width="1576" height="136" frameX="-44" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0022" x="0" y="1849" width="1582" height="136" frameX="-38" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0023" x="1625" y="1849" width="1589" height="136" frameX="-31" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0024" x="0" y="2028" width="1595" height="136" frameX="-25" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0025" x="1638" y="2028" width="1601" height="136" frameX="-19" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0026" x="0" y="2207" width="1607" height="136" frameX="-13" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0027" x="1650" y="2207" width="1613" height="136" frameX="-7" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0028" x="0" y="2386" width="1620" height="136" frameX="0" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0029" x="0" y="2386" width="1620" height="136" frameX="-41" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0030" x="0" y="2386" width="1620" height="136" frameX="-41" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0031" x="0" y="2386" width="1620" height="136" frameX="-41" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0032" x="0" y="2386" width="1620" height="136" frameX="-41" frameY="-50" frameWidth="1620" frameHeight="234"/>
+	<SubTexture name="Advertencia0033" x="0" y="2386" width="1620" height="136" frameX="-41" frameY="-50" frameWidth="1620" frameHeight="234"/>
+</TextureAtlas>

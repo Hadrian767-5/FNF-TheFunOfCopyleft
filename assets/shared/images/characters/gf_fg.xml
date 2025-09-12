@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_fg.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle 10000" x="0" y="0" width="2016" height="1872" pivotX="1665.65" pivotY="315.35"/>
+	<SubTexture name="idle 10001" x="2016" y="0" width="2016" height="1872"/>
+	<SubTexture name="idle 10002" x="0" y="1872" width="2016" height="1872"/>
+	<SubTexture name="idle 10003" x="2016" y="1872" width="2016" height="1872"/>
+	<SubTexture name="idle 10004" x="0" y="3744" width="2016" height="1872"/>
+	<SubTexture name="idle 10005" x="2016" y="3744" width="2016" height="1872"/>
+	<SubTexture name="idle 10006" x="0" y="5616" width="2016" height="1872"/>
+</TextureAtlas>

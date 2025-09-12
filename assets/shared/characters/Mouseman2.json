@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				69
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Rigth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				207
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mouse (smiling wider) idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				133
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Mouse (smiling wider) laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smilering (REANIMATED)",
+	"position": [
+		-120,
+		30
+	],
+	"healthicon": "smiler",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 5.1,
+	"scale": 1
+}

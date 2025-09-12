@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M ZJ Idle",
+	"image": "Menu_ZJ",
+	"position": [
+		69,
+		110
+	],
+	"flipX": true,
+	"scale": 0.5,
+	"confirm_anim": "M ZJ Idle"
+}

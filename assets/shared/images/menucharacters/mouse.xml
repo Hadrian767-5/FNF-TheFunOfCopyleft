@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mouse.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mouse (smiling wider) idle instance 10000" x="0" y="0" width="559" height="810" frameX="-35" frameY="-18" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10001" x="602" y="0" width="569" height="830" frameX="-33" frameY="0" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10002" x="1214" y="0" width="586" height="815" frameX="-38" frameY="-13" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10003" x="1843" y="0" width="607" height="792" frameX="-5" frameY="-37" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10004" x="2493" y="0" width="594" height="810" frameX="0" frameY="-18" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10005" x="3130" y="0" width="567" height="830" frameX="-35" frameY="0" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10006" x="0" y="873" width="573" height="815" frameX="-51" frameY="-13" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10007" x="616" y="873" width="592" height="792" frameX="-20" frameY="-37" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10008" x="1251" y="873" width="559" height="810" frameX="-35" frameY="-18" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10009" x="1853" y="873" width="538" height="830" frameX="-64" frameY="0" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10010" x="2434" y="873" width="567" height="815" frameX="-57" frameY="-13" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10011" x="3044" y="873" width="592" height="792" frameX="-20" frameY="-37" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10012" x="0" y="1746" width="559" height="810" frameX="-35" frameY="-18" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10013" x="602" y="1746" width="538" height="830" frameX="-64" frameY="0" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10014" x="1183" y="1746" width="567" height="815" frameX="-57" frameY="-13" frameWidth="624" frameHeight="830"/>
+	<SubTexture name="Mouse (smiling wider) idle instance 10015" x="1793" y="1746" width="592" height="792" frameX="-20" frameY="-37" frameWidth="624" frameHeight="830"/>
+</TextureAtlas>

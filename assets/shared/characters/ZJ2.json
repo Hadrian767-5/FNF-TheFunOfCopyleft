@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-117,
+				146
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ZJ idle"
+		},
+		{
+			"offsets": [
+				25,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ZJ left"
+		},
+		{
+			"offsets": [
+				-134,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ZJ right"
+		},
+		{
+			"offsets": [
+				93,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ZJ down"
+		},
+		{
+			"offsets": [
+				50,
+				459
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ZJ up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				140
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "ZJ shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ZJ2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ZJ2",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		259,
+		-59
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

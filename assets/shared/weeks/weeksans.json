@@ -1,0 +1,41 @@
+{
+	"storyName": "sans's them",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sans",
+		"bf_sans",
+		""
+	],
+	"songs": [
+		[
+			"muder sans",
+			"iconGrid",
+			[
+				15,
+				93,
+				253
+			]
+		],
+		[
+			"real",
+			"iconGrid",
+			[
+				0,
+				0,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sans",
+	"hiddenUntilUnlocked": false
+}

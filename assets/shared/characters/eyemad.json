@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				234,
+				572
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eyemad"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/eyemad",
+	"position": [
+		-500,
+		-120
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		340,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": false
+}

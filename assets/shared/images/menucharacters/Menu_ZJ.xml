@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_ZJ.png">
+<SubTexture name="M ZJ Idle0000" x="0" y="0" width="304" height="606" frameX="-5" frameY="0" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0001" x="304" y="0" width="304" height="604" frameX="-3" frameY="-2" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0002" x="608" y="0" width="304" height="602" frameX="-1" frameY="-4" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0003" x="912" y="0" width="303" height="600" frameX="0" frameY="-6" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0004" x="912" y="0" width="303" height="600" frameX="0" frameY="-6" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0005" x="912" y="0" width="303" height="600" frameX="0" frameY="-6" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0006" x="608" y="0" width="304" height="602" frameX="-1" frameY="-4" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0007" x="304" y="0" width="304" height="604" frameX="-3" frameY="-2" frameWidth="309" frameHeight="606" />
+<SubTexture name="M ZJ Idle0008" x="0" y="0" width="304" height="606" frameX="-5" frameY="0" frameWidth="309" frameHeight="606" />
+</TextureAtlas>

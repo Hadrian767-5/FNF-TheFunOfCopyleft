@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mouse (smiling wider) needle"
+		},
+		{
+			"offsets": [
+				-40,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Mouse (smiling wider) needle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nedle",
+	"position": [
+		-160,
+		30
+	],
+	"healthicon": "nedle",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 5.1,
+	"scale": 1
+}

@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		-100
+	],
+	"no_antialiasing": true,
+	"scale": 0.7,
+	"animations": [
+		{
+			"loop_name": "ZJ cool talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ZJ talk",
+			"anim": "ZJ cool talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ZJ talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ZJ talk",
+			"anim": "ZJ talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ZJ"
+}

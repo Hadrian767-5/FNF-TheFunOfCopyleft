@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "txt2",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beef!bebo!(HAHAHA!)"
+		},
+		{
+			"sound": "txt1",
+			"speed": 0.5,
+			"portrait": "ZJ",
+			"boxState": "normal",
+			"expression": "ZJ talk",
+			"text": "FUCK"
+		},
+		{
+			"sound": "txt1",
+			"speed": 0.15,
+			"portrait": "ZJ",
+			"boxState": "normal",
+			"expression": "ZJ talk",
+			"text": "Shi Bu Shi You Bing "
+		},
+		{
+			"sound": "txt2",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEE!(I'm so scared!)"
+		},
+		{
+			"sound": "txt2",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "BEEEEEEEEEEEEEEEEEE!(HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)"
+		},
+		{
+			"sound": "txt1",
+			"speed": 0,
+			"portrait": "ZJ",
+			"boxState": "normal",
+			"expression": "ZJ talk",
+			"text": "OK OK"
+		},
+		{
+			"sound": "txt1",
+			"speed": 0.05,
+			"portrait": "ZJ",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "UZIIIII!!"
+		},
+		{
+			"sound": "txt1",
+			"speed": 0.05,
+			"portrait": "ZJ",
+			"boxState": "angry",
+			"expression": "ZJ talk",
+			"text": "COME BACK"
+		}
+	]
+}

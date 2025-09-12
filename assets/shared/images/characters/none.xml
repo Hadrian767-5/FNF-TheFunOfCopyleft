@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="none.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="noneidle0000" x="0" y="0" width="2048" height="2072" pivotX="0" pivotY="0"/>
+	<SubTexture name="noneidle0001" x="2048" y="0" width="2048" height="2072"/>
+	<SubTexture name="noneidle0002" x="0" y="2072" width="2048" height="2072"/>
+	<SubTexture name="noneidle0003" x="2048" y="2072" width="2048" height="2072"/>
+	<SubTexture name="noneidle0004" x="0" y="4144" width="2048" height="2072"/>
+	<SubTexture name="noneidle0005" x="2048" y="4144" width="2048" height="2072"/>
+	<SubTexture name="noneidle0006" x="2048" y="4144" width="2048" height="2072"/>
+</TextureAtlas>

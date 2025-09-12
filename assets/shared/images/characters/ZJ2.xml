@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ZJ.png">
+<SubTexture name="ZJ down0000" x="1347" y="1780" width="483" height="620" frameX="-207" frameY="-1" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0001" x="1830" y="1780" width="483" height="620" frameX="-207" frameY="-1" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0002" x="2175" y="703" width="483" height="697" frameX="-207" frameY="-11" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0003" x="0" y="1780" width="483" height="695" frameX="-207" frameY="-13" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0004" x="1692" y="0" width="483" height="788" frameX="-212" frameY="-16" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0005" x="0" y="994" width="483" height="786" frameX="-212" frameY="-18" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0006" x="483" y="994" width="483" height="783" frameX="-212" frameY="-21" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0007" x="966" y="994" width="483" height="761" frameX="-212" frameY="-43" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0008" x="2175" y="0" width="695" height="703" frameX="0" frameY="-101" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ down0009" x="1449" y="994" width="483" height="740" frameX="-212" frameY="-64" frameWidth="695" frameHeight="804" />
+<SubTexture name="ZJ idle0000" x="2870" y="0" width="437" height="615" frameX="0" frameY="0" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ idle0001" x="2870" y="0" width="437" height="615" frameX="0" frameY="0" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ idle0002" x="2870" y="615" width="437" height="612" frameX="0" frameY="-3" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ idle0003" x="1806" y="2475" width="441" height="609" frameX="0" frameY="-6" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ idle0004" x="2870" y="1834" width="437" height="606" frameX="0" frameY="-9" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ idle0005" x="2247" y="2475" width="430" height="606" frameX="0" frameY="-9" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ idle0006" x="2870" y="1227" width="430" height="607" frameX="-16" frameY="-9" frameWidth="446" frameHeight="616" />
+<SubTexture name="ZJ left0000" x="483" y="1780" width="382" height="639" frameX="-148" frameY="0" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ left0001" x="2313" y="1780" width="382" height="616" frameX="-148" frameY="-23" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ left0002" x="0" y="3088" width="442" height="604" frameX="-68" frameY="-25" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ left0003" x="442" y="3088" width="435" height="604" frameX="-75" frameY="-25" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ left0004" x="877" y="3088" width="500" height="604" frameX="-9" frameY="-25" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ left0005" x="3307" y="605" width="417" height="604" frameX="-90" frameY="-25" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ left0006" x="1377" y="3088" width="507" height="604" frameX="0" frameY="-25" frameWidth="530" frameHeight="639" />
+<SubTexture name="ZJ right0000" x="2677" y="2475" width="344" height="605" frameX="-9" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ right0001" x="3307" y="0" width="428" height="605" frameX="0" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ right0002" x="3307" y="1209" width="428" height="604" frameX="0" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ right0003" x="3307" y="1813" width="428" height="604" frameX="0" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ right0004" x="1884" y="3088" width="619" height="604" frameX="0" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ right0005" x="2503" y="3088" width="667" height="604" frameX="0" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ right0006" x="3735" y="0" width="619" height="604" frameX="0" frameY="0" frameWidth="667" frameHeight="605" />
+<SubTexture name="ZJ shoot0000" x="865" y="1780" width="482" height="630" frameX="-1" frameY="-16" frameWidth="1323" frameHeight="646" />
+<SubTexture name="ZJ shoot0001" x="0" y="2475" width="1312" height="613" frameX="-5" frameY="-16" frameWidth="1323" frameHeight="646" />
+<SubTexture name="ZJ shoot0002" x="1312" y="2475" width="494" height="610" frameX="-31" frameY="-1" frameWidth="1323" frameHeight="646" />
+<SubTexture name="ZJ up0000" x="571" y="0" width="561" height="905" frameX="-27" frameY="-89" frameWidth="588" frameHeight="994" />
+<SubTexture name="ZJ up0001" x="571" y="0" width="561" height="905" frameX="-27" frameY="-89" frameWidth="588" frameHeight="994" />
+<SubTexture name="ZJ up0002" x="1132" y="0" width="560" height="866" frameX="-27" frameY="-128" frameWidth="588" frameHeight="994" />
+<SubTexture name="ZJ up0003" x="1132" y="0" width="560" height="866" frameX="-27" frameY="-128" frameWidth="588" frameHeight="994" />
+<SubTexture name="ZJ up0004" x="0" y="0" width="571" height="994" frameX="-1" frameY="0" frameWidth="588" frameHeight="994" />
+<SubTexture name="ZJ up0005" x="0" y="0" width="571" height="994" frameX="-1" frameY="0" frameWidth="588" frameHeight="994" />
+</TextureAtlas>

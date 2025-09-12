@@ -1,0 +1,27 @@
+{
+	"storyName": "Is Suicide Really the Best Option...?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mouseman",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mouse",
+		"bf-retro",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Unknown Suffering",
+			"smiler",
+			[
+				25,
+				25,
+				25
+			]
+		]
+	],
+	"weekName": "mouse",
+	"hiddenUntilUnlocked": false
+}

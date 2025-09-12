@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZJ_Y.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="184" height="299" pivotX="-3.3" pivotY="-4.5"/>
+	<SubTexture name="idle0001" x="184" y="0" width="184" height="299"/>
+	<SubTexture name="idle0002" x="368" y="0" width="184" height="299"/>
+	<SubTexture name="idle0003" x="552" y="0" width="184" height="299"/>
+	<SubTexture name="idle0004" x="736" y="0" width="184" height="299"/>
+	<SubTexture name="idle0005" x="0" y="299" width="184" height="299"/>
+	<SubTexture name="idle0006" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0007" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0008" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0009" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0010" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0011" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0012" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="idle0013" x="184" y="299" width="184" height="299"/>
+	<SubTexture name="singLEFT0000" x="368" y="299" width="190" height="304" pivotX="13.05" pivotY="-4.5"/>
+	<SubTexture name="singLEFT0001" x="558" y="299" width="190" height="304"/>
+	<SubTexture name="singLEFT0002" x="748" y="299" width="190" height="304"/>
+	<SubTexture name="singLEFT0003" x="0" y="603" width="190" height="304"/>
+	<SubTexture name="singLEFT0004" x="190" y="603" width="190" height="304"/>
+	<SubTexture name="singLEFT0005" x="380" y="603" width="190" height="304"/>
+	<SubTexture name="singRIGHT0000" x="570" y="603" width="181" height="299" pivotX="-3.3" pivotY="-4.5"/>
+	<SubTexture name="singRIGHT0001" x="751" y="603" width="181" height="299"/>
+	<SubTexture name="singRIGHT0002" x="0" y="907" width="181" height="299"/>
+	<SubTexture name="singRIGHT0003" x="181" y="907" width="181" height="299"/>
+	<SubTexture name="singUP0000" x="362" y="907" width="232" height="316" pivotX="26.1" pivotY="13"/>
+	<SubTexture name="singUP0001" x="594" y="907" width="232" height="316"/>
+	<SubTexture name="singUP0002" x="0" y="1223" width="232" height="316"/>
+	<SubTexture name="singUP0003" x="232" y="1223" width="232" height="316"/>
+	<SubTexture name="singUP0004" x="464" y="1223" width="232" height="316"/>
+	<SubTexture name="singUP0005" x="464" y="1223" width="232" height="316"/>
+</TextureAtlas>

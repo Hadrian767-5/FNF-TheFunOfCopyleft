@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nedle.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mouse (smiling wider) needle0000" x="0" y="0" width="558" height="812" frameX="-86" frameY="-160" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0001" x="601" y="0" width="564" height="815" frameX="-84" frameY="-158" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0002" x="1208" y="0" width="578" height="798" frameX="-88" frameY="-174" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0003" x="1829" y="0" width="640" height="780" frameX="-56" frameY="-192" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0004" x="2512" y="0" width="678" height="778" frameX="-50" frameY="-194" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0005" x="3233" y="0" width="636" height="783" frameX="-85" frameY="-190" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0006" x="0" y="858" width="652" height="795" frameX="-101" frameY="-177" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0007" x="695" y="858" width="680" height="802" frameX="-70" frameY="-170" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0008" x="1418" y="858" width="656" height="815" frameX="-86" frameY="-157" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0009" x="2117" y="858" width="729" height="834" frameX="-91" frameY="-138" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0010" x="2889" y="858" width="748" height="869" frameX="-101" frameY="-103" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0011" x="0" y="1770" width="765" height="904" frameX="-67" frameY="-68" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0012" x="808" y="1770" width="771" height="938" frameX="-34" frameY="-34" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0013" x="1622" y="1770" width="811" height="973" frameX="0" frameY="0" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0014" x="2476" y="1770" width="725" height="852" frameX="-107" frameY="-120" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0015" x="3244" y="1770" width="770" height="842" frameX="-70" frameY="-130" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0016" x="0" y="2786" width="801" height="842" frameX="-58" frameY="-130" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0017" x="844" y="2786" width="800" height="847" frameX="-58" frameY="-125" frameWidth="859" frameHeight="973"/>
+	<SubTexture name="Mouse (smiling wider) needle0018" x="1687" y="2786" width="794" height="805" frameX="-41" frameY="-166" frameWidth="859" frameHeight="973"/>
+</TextureAtlas>

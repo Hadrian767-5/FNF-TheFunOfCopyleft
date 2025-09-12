@@ -1,0 +1,226 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Idle"
+		},
+		{
+			"offsets": [
+				-170,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				9,
+				10
+			],
+			"name": "Suicide (giving up) Idle"
+		},
+		{
+			"offsets": [
+				9,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Left"
+		},
+		{
+			"offsets": [
+				8,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Left (hit)"
+		},
+		{
+			"offsets": [
+				-112,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Rigth"
+		},
+		{
+			"offsets": [
+				-111,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Rigth (hit)"
+		},
+		{
+			"offsets": [
+				-33,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Down"
+		},
+		{
+			"offsets": [
+				-33,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Down (hit)"
+		},
+		{
+			"offsets": [
+				-100,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Up"
+		},
+		{
+			"offsets": [
+				-101,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Suicide (giving up) Up (hit)"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadge (REANIMATED)",
+	"position": [
+		-200,
+		40
+	],
+	"healthicon": "sadge",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 5.1,
+	"scale": 1
+}
