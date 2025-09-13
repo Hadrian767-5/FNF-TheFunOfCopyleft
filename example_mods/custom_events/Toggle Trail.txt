@@ -1,0 +1,5 @@
+Value 1: Set Dad BF trial(1,1 0,0 1,0 or 0,1)
+Value 2: Set Length and Delay(DadtrailLength,DadtrailDelay,BFtrailLength,BFtrailDelay,BFtrailAlpha,DadtrailAlpha)
+
+Setting a value to 0 or leaving it blank will disable it.
+Setting a value to 1 will enable it.

@@ -1,0 +1,41 @@
+{
+	"camera_boyfriend": [
+		-150,
+		-100
+	],
+	"girlfriend": [
+		395,
+		930
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		1370,
+		1500
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.8,
+	"directory": "",
+	"opponent": [
+		420,
+		1480
+	],
+	"camera_speed": 1,
+	"camera_opponent": [
+		200,
+		50
+	]
+}
