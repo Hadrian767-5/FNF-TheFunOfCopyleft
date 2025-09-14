@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spdt.png">
+<SubTexture name="spdt idle0000" x="1883" y="0" width="642" height="1578" frameX="-812" frameY="-294" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt idle0001" x="1236" y="0" width="647" height="1580" frameX="-812" frameY="-292" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt idle0002" x="0" y="1595" width="647" height="1577" frameX="-812" frameY="-295" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt idle0003" x="2525" y="0" width="647" height="1578" frameX="-812" frameY="-294" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt idle0004" x="3172" y="0" width="647" height="1578" frameX="-812" frameY="-294" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_down0000" x="1787" y="1595" width="946" height="1406" frameX="-447" frameY="-469" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_down0001" x="3819" y="1405" width="928" height="1361" frameX="-469" frameY="-514" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_left0000" x="3819" y="0" width="1122" height="1405" frameX="-563" frameY="-468" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_left0001" x="0" y="3172" width="1208" height="1365" frameX="-536" frameY="-508" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_right0000" x="1208" y="3172" width="1184" height="1356" frameX="-283" frameY="-512" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_right0001" x="2392" y="3172" width="1245" height="1327" frameX="-222" frameY="-541" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_up0000" x="647" y="1595" width="1140" height="1559" frameX="-369" frameY="-307" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="spdt sing_up0001" x="0" y="0" width="1236" height="1595" frameX="-325" frameY="-270" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

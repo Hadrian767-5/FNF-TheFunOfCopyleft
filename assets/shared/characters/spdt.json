@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [802, 942],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spdt sing_right"
+		},
+		{
+			"offsets": [860, 942],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spdt sing_down"
+		},
+		{
+			"offsets": [857, 937],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spdt sing_up"
+		},
+		{
+			"offsets": [780, 946],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spdt sing_left"
+		},
+		{
+			"loop": false,
+			"offsets": [803, 940],
+			"anim": "idle",
+			"fps": 10,
+			"name": "spdt idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/spdt",
+	"position": [10, 300],
+	"healthicon": "spdt",
+	"flip_x": true,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-190, -340],
+	"sing_duration": 4,
+	"scale": 0.42,
+	"_editor_isPlayer": false
+}

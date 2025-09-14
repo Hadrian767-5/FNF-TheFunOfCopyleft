@@ -5,7 +5,7 @@ function onEvent(n, v1, v2)
             addAnimationByPrefix('Overlay','dance','SNS FTTE Fil Grain layer2 (lower quality)_gif instance ',24,true)
             addLuaSprite('Overlay', true)
             setScrollFactor('Overlay', 0, 0)
-            scaleObject('Overlay', 3, 3)
+            scaleObject('Overlay', 3.5, 3.5)
         end
         
         if v2 == '1' then
