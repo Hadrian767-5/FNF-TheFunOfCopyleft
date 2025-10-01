@@ -1,9 +1,9 @@
 function onCreate()
     -- 创建文字对象，初始内容为空
-    makeLuaText('animatedText', '', 300, 250, 200)
+    makeLuaText('animatedText', '', 1000, 150, 200)
     setTextSize('animatedText', 40)
     setTextColor('animatedText', 'FFFFFF')
-    setTextBorder('animatedText', 0.2, 'FFFFFF')
+    setTextBorder('animatedText', 3, '000000')
     addLuaText('animatedText')
     setProperty('animatedText.alpha', 0) -- 初始透明
 end
@@ -11,8 +11,9 @@ end
 function onEvent(name, value1, value2)
     if name == 'zj_text' then
         -- 设置文字内容
+        setTextFont('animatedText',"Determination Mono.otf")
         setTextString('animatedText', value1)
-        
+        setTextAlignment('animatedText',"left")
         -- 重置透明度并显示文字
         setProperty('animatedText.alpha', 1)
         

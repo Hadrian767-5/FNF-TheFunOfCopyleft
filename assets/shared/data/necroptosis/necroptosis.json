@@ -6,7 +6,7 @@
 			0,
 			[
 				["badapplelol", "a", "1"],
-				["white flash", "15", ""]
+				["white flash", "5", ""]
 			]
 		],
 		[
@@ -16,16 +16,88 @@
 			]
 		],
 		[
+			2666.66666666667,
+			[
+				["zj_text", "Ephesinans 6:11 Put on the full armor of God, so that you can take your stand against the devil's schemes", ""],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			5333.33333333333,
+			[
+				["zj_text", "Ephesians 6:12 For our struggle is not against flesh and blood,but against the rules against the authorities against the power of this dark world and against the sprins forces of evil in the heavenly realm", ""],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			8000,
+			[
+				["zj_text", "James 4:7 Sumit yourselves ,then , toGod", ""],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			9333.33333333333,
+			[
+				["zj_text", "James 4:7 Sumit yourselves ,then , toGod. Resist the devil and he will flee from you", "2"],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			13333.3333333333,
+			[
+				["zj_text", "Yahweh 9:1 But shall oneself not resist the devil's sweet lies, thy shall recive an atonment on par with Satan himself", "1"]
+			]
+		],
+		[
+			16000,
+			[
+				["zj_text", "Yahweh 9:4 A devil's advocate shan't be treated any diffrently from how Lucifer'd be judged and sentanced", "1"]
+			]
+		],
+		[
+			18666.6666666667,
+			[
+				["zj_text", "Yahweh 9:8 We may both be inmortal, yet our physical forms cannot retain suck impossible attributes", "1"],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			21166.6666666667,
+			[
+				["zj_text", "Yahweh 9:9 So En Guarde, Lucifer", "0.5"],
+				["Add Camera Zoom", "5", "2"]
+			]
+		],
+		[
 			22666.6666666667,
 			[
-				["badapplelol", "b", "1"],
-				["Flash Black", "2", ""]
+				["Flash Black", "5", ""],
+				["zj_text", "HeZhijun 4:3 Let's", ""]
 			]
 		],
 		[
 			22750,
 			[
 				["zj_Film_voice", "", "1"]
+			]
+		],
+		[
+			23250,
+			[
+				["zj_text", "HeZhijun 4:3 Let's rewrite", ""]
+			]
+		],
+		[
+			23750,
+			[
+				["zj_text", "HeZhijun 4:3 Let's rewrite history ", ""]
+			]
+		],
+		[
+			23833.3333333333,
+			[
+				["zj_text", "HeZhijun 4:3 Let's rewrite history together", "1"]
 			]
 		],
 		[
@@ -37,7 +109,15 @@
 		[
 			24000,
 			[
-				["Cinematics", "1", ""]
+				["Cinematics", "1", ""],
+				["badapplelol", "b", ""],
+				["Flash Black", "1", ""]
+			]
+		],
+		[
+			29333.3333333333,
+			[
+				["zj_text", "Lucifer 6:0 The final chance to prove oneselves worth of life and death", "1"]
 			]
 		],
 		[

@@ -97,7 +97,7 @@ function onSongStart()
 	
 		
 	
-	runTimer('JukeBoxWait', 6, 1)
+	runTimer('JukeBoxWait', 4, 1)
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)
