@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spdt_n.png">
+<SubTexture name="spdt_n idle0000" x="1398" y="1044" width="642" height="995" frameX="-857" frameY="-289" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n idle0001" x="2040" y="1044" width="642" height="985" frameX="-857" frameY="-300" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n idle0002" x="0" y="2055" width="642" height="985" frameX="-857" frameY="-300" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n idle0003" x="756" y="1044" width="642" height="998" frameX="-857" frameY="-287" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n idle0004" x="1398" y="1044" width="642" height="995" frameX="-857" frameY="-289" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n down0000" x="1286" y="2055" width="660" height="956" frameX="-835" frameY="-328" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n down0001" x="642" y="2055" width="644" height="963" frameX="-841" frameY="-321" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n left0000" x="2693" y="990" width="759" height="988" frameX="-856" frameY="-296" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n left0001" x="2693" y="0" width="804" height="990" frameX="-860" frameY="-294" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n right0000" x="1914" y="0" width="779" height="1011" frameX="-861" frameY="-273" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n right0001" x="0" y="1044" width="756" height="1011" frameX="-864" frameY="-273" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n up0000" x="0" y="0" width="964" height="1044" frameX="-700" frameY="-240" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="spdt_n up0001" x="964" y="0" width="950" height="1038" frameX="-719" frameY="-246" frameWidth="2388" frameHeight="1668" />
+</TextureAtlas>

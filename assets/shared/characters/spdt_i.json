@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [1033, 631],
+			"anim": "idle",
+			"fps": 15,
+			"name": "spdt_i idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1062, 626],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "spdt_i right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1037, 631],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "spdt_i up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1035, 630],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "spdt_i down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1034, 631],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "spdt_i left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/spdt_i",
+	"position": [10, 310],
+	"healthicon": "spdt",
+	"flip_x": false,
+	"healthbar_colors": [150, 0, 0],
+	"camera_position": [-390, -340],
+	"sing_duration": 4,
+	"scale": 0.56,
+	"_editor_isPlayer": false
+}

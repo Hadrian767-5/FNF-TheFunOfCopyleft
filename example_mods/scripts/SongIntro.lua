@@ -50,25 +50,30 @@ function onCreate()
 	setTextAlignment('JukeBoxSubText', 'left')
 	setObjectCamera('JukeBoxSubText', 'other')
 	setTextSize('JukeBoxSubText', IntroSubTextSize)
-	if( songName == 'angry' or songName == 'hero')
+	if( songName == 'Unknown Suffering')
 	then
 		setTextSize('JukeBoxText', 35)
-		setTextSize('JukeBoxSubText', 100)
+		setTextSize('JukeBoxSubText', 40)
 		setTextFont("JukeBoxSubText","1.ttf")
 		setTextAlignment('JukeBoxSubText', 'left')
 		setObjectCamera('JukeBoxSubText', 'other')
-		setTextSize('JukeBoxSubText', IntroSubTextSize)
-	else
-		setTextFont("JukeBoxSubText","JetBrainsMono-Bold-Italic.ttf")
 	end
-	if( songName == 'necroptosis'or songName == 'muder sans' or songName == 'real')
+	if( songName == 'Angry' or songName == 'Hero' )
+	then
+		setTextSize('JukeBoxText', 35)
+		setTextSize('JukeBoxSubText', 60)
+		setTextFont("JukeBoxSubText","1.ttf")
+		setTextAlignment('JukeBoxSubText', 'left')
+		setObjectCamera('JukeBoxSubText', 'other')
+	end
+	if( songName == 'Necroptosis'or songName == 'muder sans' or songName == 'Real')
 	then
 
 		setTextSize('JukeBoxText', 35)
 		setTextSize('JukeBoxSubText', 35)
 		setTextAlignment()
 		setTextFont("JukeBoxText","SansICFont.ttf")
-		setTextFont("JukeBoxSubText","Monster Friend Fore.ttf")
+		setTextFont("JukeBoxSubText","Monster Friend Fore.otf")
 	end
 	addLuaText('JukeBoxSubText')
 

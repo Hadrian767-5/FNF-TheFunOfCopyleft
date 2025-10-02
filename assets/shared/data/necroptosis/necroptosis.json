@@ -1,6 +1,6 @@
 {
 	"player1": "bf-sans",
-	"player2": "spdt",
+	"player2": "spdt_n",
 	"events": [
 		[
 			0,
@@ -46,19 +46,19 @@
 		[
 			13333.3333333333,
 			[
-				["zj_text", "Yahweh 9:1 But shall oneself not resist the devil's sweet lies, thy shall recive an atonment on par with Satan himself", "1"]
+				["zj_text", "Yahweh 9:1 But shall oneself not resist the devil's sweet lies, thy shall recive an atonment on par with Satan himself", ""]
 			]
 		],
 		[
 			16000,
 			[
-				["zj_text", "Yahweh 9:4 A devil's advocate shan't be treated any diffrently from how Lucifer'd be judged and sentanced", "1"]
+				["zj_text", "Yahweh 9:4 A devil's advocate shan't be treated any diffrently from how Lucifer'd be judged and sentanced", ""]
 			]
 		],
 		[
 			18666.6666666667,
 			[
-				["zj_text", "Yahweh 9:8 We may both be inmortal, yet our physical forms cannot retain suck impossible attributes", "1"],
+				["zj_text", "Yahweh 9:8 We may both be inmortal, yet our physical forms cannot retain suck impossible attributes", ""],
 				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
@@ -66,38 +66,35 @@
 			21166.6666666667,
 			[
 				["zj_text", "Yahweh 9:9 So En Guarde, Lucifer", "0.5"],
-				["Add Camera Zoom", "5", "2"]
+				["Add Camera Zoom", "5", "2"],
+				["badapplelol", "b", ""],
+				["Flash Black", "2", ""]
 			]
 		],
 		[
 			22666.6666666667,
 			[
-				["Flash Black", "5", ""],
-				["zj_text", "HeZhijun 4:3 Let's", ""]
-			]
-		],
-		[
-			22750,
-			[
-				["zj_Film_voice", "", "1"]
+				["zj_Film_voice", "", "1"],
+				["blackoutINSTANT", "a", ""],
+				["zj_text_intro2", "HeZhijun 4:3 Let's", ""]
 			]
 		],
 		[
 			23250,
 			[
-				["zj_text", "HeZhijun 4:3 Let's rewrite", ""]
+				["zj_text_intro2", "HeZhijun 4:3 Let's rewrite", ""]
 			]
 		],
 		[
 			23750,
 			[
-				["zj_text", "HeZhijun 4:3 Let's rewrite history ", ""]
+				["zj_text_intro2", "HeZhijun 4:3 Let's rewrite history ", ""]
 			]
 		],
 		[
 			23833.3333333333,
 			[
-				["zj_text", "HeZhijun 4:3 Let's rewrite history together", "1"]
+				["zj_text_intro2", "HeZhijun 4:3 Let's rewrite history together", "1"]
 			]
 		],
 		[
@@ -110,14 +107,14 @@
 			24000,
 			[
 				["Cinematics", "1", ""],
-				["badapplelol", "b", ""],
-				["Flash Black", "1", ""]
+				["blackoutINSTANT", "b", ""],
+				["blackoutINSTANT", "b", ""]
 			]
 		],
 		[
 			29333.3333333333,
 			[
-				["zj_text", "Lucifer 6:0 The final chance to prove oneselves worth of life and death", "1"]
+				["zj_text_cin", "Lucifer 6:0 The final chance to prove oneselves worth of life and death", "1"]
 			]
 		],
 		[
@@ -3708,7 +3705,7 @@
 	"offset": 0,
 	"gameOverChar": "bf-sans",
 	"splashSkin": "spdts",
-	"song": "necroptosis",
+	"song": "Necroptosis",
 	"arrowSkin": "spdt",
 	"stage": "hall",
 	"needsVoices": true,
