@@ -18,54 +18,54 @@
 		[
 			2666.66666666667,
 			[
-				["zj_text", "Ephesinans 6:11 Put on the full armor of God, so that you can take your stand against the devil's schemes", ""],
+				["zj_text", "Ephesinans 6:11 Put on the full armor of God, so that you can take your stand against the devil's schemes.", ""],
 				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
 			5333.33333333333,
 			[
-				["zj_text", "Ephesians 6:12 For our struggle is not against flesh and blood,but against the rules against the authorities against the power of this dark world and against the sprins forces of evil in the heavenly realm", ""],
+				["zj_text", "Ephesians 6:12 For our struggle is not against flesh and blood,but against the rules against the authorities against the power of this dark world and against the sprins forces of evil in the heavenly realm.", ""],
 				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
 			8000,
 			[
-				["zj_text", "James 4:7 Sumit yourselves ,then , toGod", ""],
+				["zj_text", "James 4:7 Sumit yourselves ,then to God", ""],
 				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
 			9333.33333333333,
 			[
-				["zj_text", "James 4:7 Sumit yourselves ,then , toGod. Resist the devil and he will flee from you", "2"],
+				["zj_text", "James 4:7 Sumit yourselves ,then to God. Resist the devil and he will flee from you.", "2"],
 				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
 			13333.3333333333,
 			[
-				["zj_text", "Yahweh 9:1 But shall oneself not resist the devil's sweet lies, thy shall recive an atonment on par with Satan himself", ""]
+				["zj_text", "Yahweh 9:1 But shall oneself not resist the devil's sweet lies, thy shall recive an atonment on par with Satan himself.", ""]
 			]
 		],
 		[
 			16000,
 			[
-				["zj_text", "Yahweh 9:4 A devil's advocate shan't be treated any diffrently from how Lucifer'd be judged and sentanced", ""]
+				["zj_text", "Yahweh 9:4 A devil's advocate shan't be treated any diffrently from how Lucifer'd be judged and sentanced.", ""]
 			]
 		],
 		[
 			18666.6666666667,
 			[
-				["zj_text", "Yahweh 9:8 We may both be inmortal, yet our physical forms cannot retain suck impossible attributes", ""],
+				["zj_text", "Yahweh 9:8 We may both be inmortal, yet our physical forms cannot retain suck impossible attributes.", ""],
 				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
 			21166.6666666667,
 			[
-				["zj_text", "Yahweh 9:9 So En Guarde, Lucifer", "0.5"],
+				["zj_text", "Yahweh 9:9 So En Guarde, Lucifer.", "1"],
 				["Add Camera Zoom", "5", "2"],
 				["badapplelol", "b", ""],
 				["Flash Black", "2", ""]
@@ -108,13 +108,35 @@
 			[
 				["Cinematics", "1", ""],
 				["blackoutINSTANT", "b", ""],
-				["blackoutINSTANT", "b", ""]
+				["Flash Black", "1", ""]
 			]
 		],
 		[
 			29333.3333333333,
 			[
-				["zj_text_cin", "Lucifer 6:0 The final chance to prove oneselves worth of life and death", "1"]
+				["zj_text_cin", "Lucifer 6:0 The final chance to prove oneselves worth of life and death.", "5"],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			45333.3333333333,
+			[
+				["zj_text", "Lucifer 6:4 I'm god, i am everyone's saviour, who is the true demon here...?", "2"],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			48000,
+			[
+				["zj_text_intro2", "Yahweh 6:6 You are the demon, Lucifer.", ""],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			50666.6666666667,
+			[
+				["zj_text_intro2", "Lucifer 6:6 I am the true God, Yahweh.", "5"],
+				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
@@ -126,8 +148,11 @@
 		[
 			66666.6666666667,
 			[
-				["Flash White", "5", ""],
-				["Cinematics", "", "2"]
+				["Change Character", "Dad", "spdt_i"],
+				["Flash White", "1", ""],
+				["Cinematics", "", "2"],
+				["Change Character", "Dad", "spdt_i"],
+				["Flash White", "1", ""]
 			]
 		],
 		[
@@ -162,9 +187,210 @@
 			]
 		],
 		[
+			90666.6666666666,
+			[
+				["zj_text_cin", "Now", ""]
+			]
+		],
+		[
+			91000,
+			[
+				["zj_text_cin", "Now, every", ""]
+			]
+		],
+		[
+			91333.3333333333,
+			[
+				["zj_text_cin", "Now, every thing ", ""]
+			]
+		],
+		[
+			91500,
+			[
+				["zj_text_cin", "Now, every thing is", ""]
+			]
+		],
+		[
+			91666.6666666666,
+			[
+				["zj_text_cin", "Now, every thing is clearly understood", ""]
+			]
+		],
+		[
+			93500,
+			[
+				["zj_text_cin", "Something", ""]
+			]
+		],
+		[
+			93750,
+			[
+				["zj_text_cin", "Something will", ""]
+			]
+		],
+		[
+			94000,
+			[
+				["zj_text_cin", "Something will never", ""]
+			]
+		],
+		[
+			94500,
+			[
+				["zj_text_cin", "Something will never change", ""]
+			]
+		],
+		[
+			95999.9999999999,
+			[
+				["zj_text_cin", "The ", ""]
+			]
+		],
+		[
+			96166.6666666666,
+			[
+				["zj_text_cin", "The world", ""]
+			]
+		],
+		[
+			96666.6666666666,
+			[
+				["zj_text_cin", "The world is", ""]
+			]
+		],
+		[
+			96833.3333333333,
+			[
+				["zj_text_cin", "The world is still", ""]
+			]
+		],
+		[
+			97166.6666666666,
+			[
+				["zj_text_cin", "The world is still operation", ""]
+			]
+		],
+		[
+			97833.3333333333,
+			[
+				["zj_text_cin", "And ", ""]
+			]
+		],
+		[
+			98083.3333333333,
+			[
+				["zj_text_cin", "And will", ""]
+			]
+		],
+		[
+			98333.3333333333,
+			[
+				["zj_text_cin", "And will back", ""]
+			]
+		],
+		[
+			98416.6666666666,
+			[
+				["zj_text_cin", "And will back to", ""]
+			]
+		],
+		[
+			98833.3333333333,
+			[
+				["zj_text_cin", "And will back to the", ""]
+			]
+		],
+		[
+			99166.6666666666,
+			[
+				["zj_text_cin", "And will back to the origin", ""]
+			]
+		],
+		[
+			99499.9999999999,
+			[
+				["zj_text_cin", "And will back to the origin eventually", "1"]
+			]
+		],
+		[
+			101333.333333333,
+			[
+				["zj_text_intro2", "But", ""]
+			]
+		],
+		[
+			101500,
+			[
+				["zj_text_intro2", "But you", ""]
+			]
+		],
+		[
+			101666.666666667,
+			[
+				["zj_text_intro2", "But you and", ""]
+			]
+		],
+		[
+			101833.333333333,
+			[
+				["zj_text_intro2", "But you and I", ""]
+			]
+		],
+		[
+			102333.333333333,
+			[
+				["zj_text_intro2", "have", ""]
+			]
+		],
+		[
+			102500,
+			[
+				["zj_text_intro2", "have already", ""]
+			]
+		],
+		[
+			103000,
+			[
+				["zj_text_intro2", "have already died", ""]
+			]
+		],
+		[
+			103500,
+			[
+				["zj_text_intro2", "have already died in", ""]
+			]
+		],
+		[
+			103666.666666667,
+			[
+				["zj_text_intro2", "have already died in that", ""]
+			]
+		],
+		[
+			103916.666666667,
+			[
+				["zj_text_intro2", "have already died in that RESET", "2"],
+				["Add Camera Zoom", "0.2", "0.2"]
+			]
+		],
+		[
+			109333.333333333,
+			[
+				["zj_text_cin", "Yahweh ?:? Deaths happen all the time. Tne second they die, thou suffers perishment.", "5"],
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
 			120000,
 			[
 				["setDefaultCameraZoom", "1", ""]
+			]
+		],
+		[
+			125333.333333333,
+			[
+				["zj_text_cin", "Lucifer ?:? Spitting lies so told through his sugared mouth. Be decieved not by promise of blood", "5"],
+				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
@@ -174,7 +400,7 @@
 			]
 		],
 		[
-			133083.333333333,
+			132916.666666666,
 			[
 				["playVideo", "spdt", ""]
 			]
@@ -183,6 +409,12 @@
 			133333.333333333,
 			[
 				["blackoutINSTANT", "a", ""]
+			]
+		],
+		[
+			141000,
+			[
+				["blackoutINSTANT", "b", ""]
 			]
 		],
 		[
@@ -199,11 +431,17 @@
 			]
 		],
 		[
+			143916.666666667,
+			[
+				["Flash White", "2", ""]
+			]
+		],
+		[
 			144000,
 			[
 				["badapplelol", "a", "1"],
-				["blackoutINSTANT", "b", ""],
-				["Flash White", "2", ""]
+				["Flash White", "2", ""],
+				["badapplelol", "a", "1"]
 			]
 		],
 		[
@@ -213,12 +451,24 @@
 			]
 		],
 		[
+			175916.666666667,
+			[
+				["Flash White", "2", ""]
+			]
+		],
+		[
 			176000,
 			[
 				["Cinematics", "1", ""],
 				["zj_Film_voice", "", "1"],
 				["Flash White", "0.2", ""],
 				["Cinematics", "1", ""]
+			]
+		],
+		[
+			176083.333333333,
+			[
+				["zj_text_cin", "James 2:17 Even so faith, if it hath not works, is dead, being alone.", "5"]
 			]
 		],
 		[
@@ -235,6 +485,13 @@
 			218583.333333334,
 			[
 				["Add Camera Zoom", "5", ""]
+			]
+		],
+		[
+			218666.666666667,
+			[
+				["zj_text_cin", "Leviticus 19:28 You shall make many cuts on your body for the dead and tattoo yourselves: Iam the Lord. Hear me.", "5"],
+				["Add Camera Zoom", "0.2", "0.1"]
 			]
 		],
 		[
@@ -264,15 +521,201 @@
 			]
 		],
 		[
+			240000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			240500.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			241000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			242666.666666667,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			243166.666666667,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			243666.666666667,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			245333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			245833.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			246333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			249666.666666667,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			250000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			250333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			252333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			252666.666666667,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			253000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			253333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			253500.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			253833.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			256000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			256500.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			256833.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			257333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			260666.666666667,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			261000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
 			261333.333333334,
 			[
 				["Cinematics", "", "2"]
 			]
 		],
 		[
+			261333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			270000.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			270333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.05"]
+			]
+		],
+		[
+			270500.000000001,
+			[
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
+			271333.333333334,
+			[
+				["Add Camera Zoom", "0.2", "0.1"]
+			]
+		],
+		[
 			272083.333333334,
 			[
 				["blackoutINSTANT", "a", ""]
+			]
+		],
+		[
+			272250.000000001,
+			[
+				["zj_text_intro2", "Thanks for playing!!!!", "5"]
+			]
+		],
+		[
+			274666.666666667,
+			[
+				["Image Flash", "spdt_cin", "5"]
 			]
 		]
 	],

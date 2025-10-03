@@ -12,14 +12,15 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "",
+	"weekBackground": "mall",
 	"difficulties": "normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "vs spdt sans",
+	
+	"storyName": "vs Yahweh",
 	"weekName": "Custom Week",
 	"hideStoryMode": false,
 	"weekBefore": "tutorial",

@@ -1,20 +1,16 @@
 {
 	"storyName": "HeZhijun anyway",
-	"difficulties": "",
+	"difficulties": "normal",
 	"hideFreeplay": false,
 	"weekBackground": "v",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"gf",
-		"bf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"angry",
@@ -35,7 +31,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Week W.I",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week W.I"
 }
