@@ -13,14 +13,14 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "fucking",
-	"difficulties": "",
+	"difficulties": "normal",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
 	"storyName": "Open your eyes mark!!!!",
-	"weekName": "think",
+	"weekName": "2",
 	"hideStoryMode": false,
 	"weekBefore": "tutorial",
 	"startUnlocked": true
