@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="illusion.png">
+<SubTexture name="illusion idle0000" x="1068" y="0" width="1068" height="1440" frameX="-634" frameY="-128" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="illusion idle0001" x="0" y="1446" width="1068" height="1430" frameX="-634" frameY="-138" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="illusion idle0002" x="1068" y="1446" width="1068" height="1430" frameX="-635" frameY="-137" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="illusion idle0003" x="0" y="0" width="1068" height="1446" frameX="-634" frameY="-122" frameWidth="2388" frameHeight="1668" />
+<SubTexture name="illusion idle0004" x="2136" y="0" width="1068" height="1440" frameX="-634" frameY="-128" frameWidth="2388" frameHeight="1668" />
+</TextureAtlas>

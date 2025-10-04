@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-3, 0],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "Cesar left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 2],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "Cesar down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [6, -2],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "Cesar up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [5, -1],
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "Cesar right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Cesar idle",
+			"indices": [0, 1, 2, 3, 4, 4, 4, 4]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cesar",
+	"position": [560, 0],
+	"healthicon": "cesar",
+	"flip_x": false,
+	"healthbar_colors": [45, 8, 97],
+	"camera_position": [-540, 10],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

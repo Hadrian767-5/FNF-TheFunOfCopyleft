@@ -1,35 +1,22 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				684,
-				1042
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [684, 1042],
 			"anim": "idle",
-			"indices": [],
-			"name": "none"
+			"fps": 24,
+			"name": "none",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/none",
-	"position": [
-		-50,
-		350
-	],
-	"healthicon": "sans",
+	"position": [-50, 350],
+	"healthicon": "icon-cesar",
 	"flip_x": false,
-	"healthbar_colors": [
-		29,
-		176,
-		209
-	],
-	"camera_position": [
-		-50,
-		-330
-	],
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [-50, -330],
 	"sing_duration": 4,
 	"scale": 0.4,
 	"_editor_isPlayer": false

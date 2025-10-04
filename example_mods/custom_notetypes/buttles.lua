@@ -22,7 +22,7 @@ end
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == "buttles" then
 		cameraShake('game',0.01,0.1)
-		playSound('shoot', 0.6)
+		playSound('shoot', 5)
 	end
 
 	if noteType == "buttles" and noteData == 0 then

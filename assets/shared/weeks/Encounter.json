@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Encounter",
+			"angrymark",
+			[
+				150,
+				150,
+				150
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "fucking",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Open your eyes mark!!!!",
+	"weekName": "think",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
